@@ -13,7 +13,7 @@
 <br/><br/>
 **Contact**
 
-<a href="https://www.linkedin.com/in/dimeji">
+<a href="https://www.linkedin.com/in/dimeji" target="_blank">
   <img align="left" alt="klefcodes's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
