@@ -6,15 +6,16 @@
 **🎉 Stats**
 
 <p>My weekly language stats based on Wakatime</p>
-<a href="https://github.com/klefcodes">
+<a href="https://github.com/c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder" />
 </a>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lexicoder&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <br/><br/>
+
 **Contact**
 
 <a href="https://www.linkedin.com/in/dimeji" target="_blank">
-  <img align="left" alt="klefcodes's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="lexicoder's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <!--
