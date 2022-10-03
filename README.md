@@ -3,15 +3,11 @@
 ![Profile views](https://gpvc.arturio.dev/lexicoder)
 
 
-**🎉 Stats**
-
-<p>My weekly language stats based on Wakatime</p>
+<h3>🎉 Stats<h3>
 <a href="https://github.com/c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder&layout=compact" />
 </a>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lexicoder&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<br/><br/>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lexicoder&show_icons=true" alt="lexicoder" />
 <h3>Where to find me</h3>
 <p><a href="https://github.com/lexicoder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dimeji" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
