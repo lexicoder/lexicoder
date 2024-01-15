@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/f0ba8fe5-0102-41e9-aa49-1864bfbd9cf8.svg)](https://wakatime.com/@f0ba8fe5-0102-41e9-aa49-1864bfbd9cf8)
-![Profile views](https://gpvc.arturio.dev/lexicoder)
 <h3>Things I work with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
