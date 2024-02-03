@@ -21,7 +21,7 @@
 <p><a href="https://github.com/lexicoder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dimeji" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1134280141&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1134280141&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1134280141&redirect=true)
 <!--
 **lexicoder/lexicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
