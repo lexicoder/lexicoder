@@ -9,7 +9,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-<h3>🎉 Stats<h3>
+<h3>🎉 Le Stats<h3>
 <a href="[https://wakatime.com/@lexicoder](https://wakatime.com/@lexicoder)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder&layout=compact" />
 </a>
