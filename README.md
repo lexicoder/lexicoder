@@ -11,7 +11,7 @@
 </p>
 <h3>🎉 Stats<h3>
 <a href="[https://wakatime.com/@lexicoder](https://wakatime.com/@lexicoder)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder&layout=compact" alt="oopsie" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lexicoder&layout=compact&v=1" alt="oopsie" />
 </a>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lexicoder&show_icons=true" alt="lexicoder" />
 
